@@ -24861,6 +24861,18 @@
         "wrapped",
         "wormhole"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "mrQsnrS9t9GSYtWtSjyaAak76yhVQ9fnBojBj4pbSPk",
+      "symbol": "ROON",
+      "name": "RoonCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mrQsnrS9t9GSYtWtSjyaAak76yhVQ9fnBojBj4pbSPk/logo.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/RoonDao"
+      }
     }
   ],
   "version": {
